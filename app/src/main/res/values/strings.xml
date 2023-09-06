@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="siddth_intro">Hello World! My name is Siddth. I am a senior studying computer science at NJIT. I am excited to learn about Android app development!</string>
+</resources>
