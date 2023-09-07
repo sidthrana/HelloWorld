@@ -17,7 +17,8 @@
         app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:src="@drawable/giant_panda_c2c51b8" />
+        android:src="@drawable/giant_panda_c2c51b8"
+        />
 
     <TextView
         android:id="@+id/IntroTextView"
@@ -35,7 +36,7 @@
         android:id="@+id/helloButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Click to say Hello"
+        android:text="Click Me"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
